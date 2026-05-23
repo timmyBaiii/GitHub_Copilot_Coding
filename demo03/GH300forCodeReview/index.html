@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>貨幣轉換</title>
+    <!-- 引用外部 CSS 樣式表 -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 標題區域 -->
+        <h1>***台幣換他國貨幣***</h1>
+        
+        <!-- 使用者輸入區塊 -->
+        <div class="input-group">
+            <label>台幣金額:</label>
+            <input type="text" id="amount" placeholder="輸入台幣金額">
+            
+            <label>轉換成:</label>
+            <select id="currency">
+                <option value="USD">美元</option>
+                <option value="JPY">日圓</option>
+                <option value="EUR">歐元</option>
+                <option value="GBP">英鎊</option>
+                <option value="CNY">人民幣</option>
+            </select>
+            
+            <!-- 點擊後呼叫 script.js 中的 convertCurrency() -->
+            <button onclick="convertCurrency()">轉換</button>
+        </div>
+        
+        <!-- 顯示轉換結果的區塊 -->
+        <div id="result"></div>
+    </div>
+    
+    <!-- 引用 JavaScript 程式碼 -->
+    <script src="script.js"></script>
+</body>
+</html>
