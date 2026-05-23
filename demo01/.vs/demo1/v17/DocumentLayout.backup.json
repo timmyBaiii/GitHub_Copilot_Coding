@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mydemo\\demo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D5FA6F-2804-4167-AFC7-38FE73DFDD56}|SalesApi\\SalesApi.csproj|c:\\mydemo\\demo01\\salesapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D5FA6F-2804-4167-AFC7-38FE73DFDD56}|SalesApi\\SalesApi.csproj|solutionrelative:salesapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D5FA6F-2804-4167-AFC7-38FE73DFDD56}|SalesApi\\SalesApi.csproj|c:\\mydemo\\demo01\\salesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D5FA6F-2804-4167-AFC7-38FE73DFDD56}|SalesApi\\SalesApi.csproj|solutionrelative:salesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\mydemo\\demo01\\SalesApi\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "SalesApi\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\mydemo\\demo01\\SalesApi\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "SalesApi\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T06:12:48.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mydemo\\demo01\\SalesApi\\Program.cs",
+              "RelativeDocumentMoniker": "SalesApi\\Program.cs",
+              "ToolTip": "C:\\mydemo\\demo01\\SalesApi\\Program.cs",
+              "RelativeToolTip": "SalesApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T06:08:34.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

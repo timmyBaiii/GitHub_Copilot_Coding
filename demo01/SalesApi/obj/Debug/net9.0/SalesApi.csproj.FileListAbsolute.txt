@@ -25,3 +25,5 @@ C:\mydemo\demo01\SalesApi\obj\Debug\net9.0\refint\SalesApi.dll
 C:\mydemo\demo01\SalesApi\obj\Debug\net9.0\SalesApi.pdb
 C:\mydemo\demo01\SalesApi\obj\Debug\net9.0\SalesApi.genruntimeconfig.cache
 C:\mydemo\demo01\SalesApi\obj\Debug\net9.0\ref\SalesApi.dll
+C:\mydemo\demo01\SalesApi\obj\Debug\net9.0\SalesApi.sourcelink.json
+C:\mydemo\demo01\SalesApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
